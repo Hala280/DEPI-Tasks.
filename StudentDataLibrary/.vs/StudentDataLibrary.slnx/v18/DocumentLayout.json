@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memoa\\OneDrive\\Desktop\\StudentDataLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D60C906-0F85-4DDF-88DA-C15ADCF59972}|..\\StudentConsoleApp\\StudentConsoleApp.csproj|c:\\users\\memoa\\onedrive\\desktop\\studentconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2F5D7-EEA2-40B9-B3E6-315D22C8241C}|StudentDataLibrary.csproj|c:\\users\\memoa\\onedrive\\desktop\\studentdatalibrary\\studentdatalibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A2F5D7-EEA2-40B9-B3E6-315D22C8241C}|StudentDataLibrary.csproj|solutionrelative:studentdatalibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memoa\\OneDrive\\Desktop\\StudentConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StudentConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\memoa\\OneDrive\\Desktop\\StudentConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\StudentConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:39:16.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDataLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\memoa\\OneDrive\\Desktop\\StudentDataLibrary\\StudentDataLibrary.cs",
+              "RelativeDocumentMoniker": "StudentDataLibrary.cs",
+              "ToolTip": "C:\\Users\\memoa\\OneDrive\\Desktop\\StudentDataLibrary\\StudentDataLibrary.cs",
+              "RelativeToolTip": "StudentDataLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:38:08.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
