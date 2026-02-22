@@ -3,7 +3,7 @@
 
 class StudentConsoleApp
 {
-    static void Main(string[] args)StudentDataLibraryTask
+    static void Main(string[] args)
     {
 
         StudentGrades obj1 = new StudentGrades();

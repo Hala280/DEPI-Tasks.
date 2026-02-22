@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\memoa\\OneDrive\\Desktop\\DEPI-TASKS-REPOSITORY\\StudentDataLibraryTask\\StudentConsoleApp\\StudentConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\memoa\\source\\repos\\DEPI--Tasks\\StudentDataLibraryTask\\StudentConsoleApp\\StudentConsoleApp.csproj",
       "projectName": "StudentConsoleApp",
-      "projectPath": "C:\\Users\\memoa\\OneDrive\\Desktop\\DEPI-TASKS-REPOSITORY\\StudentDataLibraryTask\\StudentConsoleApp\\StudentConsoleApp.csproj",
+      "projectPath": "C:\\Users\\memoa\\source\\repos\\DEPI--Tasks\\StudentDataLibraryTask\\StudentConsoleApp\\StudentConsoleApp.csproj",
       "packagesPath": "C:\\Users\\memoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\memoa\\OneDrive\\Desktop\\DEPI-TASKS-REPOSITORY\\StudentDataLibraryTask\\StudentConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\memoa\\source\\repos\\DEPI--Tasks\\StudentDataLibraryTask\\StudentConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\memoa\\OneDrive\\Desktop\\DEPI-TASKS-REPOSITORY\\StudentDataLibraryTask\\StudentDataLibrary\\StudentDataLibrary.csproj": {
-              "projectPath": "C:\\Users\\memoa\\OneDrive\\Desktop\\DEPI-TASKS-REPOSITORY\\StudentDataLibraryTask\\StudentDataLibrary\\StudentDataLibrary.csproj"
+            "C:\\Users\\memoa\\source\\repos\\DEPI--Tasks\\StudentDataLibraryTask\\StudentDataLibrary\\StudentDataLibrary.csproj": {
+              "projectPath": "C:\\Users\\memoa\\source\\repos\\DEPI--Tasks\\StudentDataLibraryTask\\StudentDataLibrary\\StudentDataLibrary.csproj"
             }
           }
         }
