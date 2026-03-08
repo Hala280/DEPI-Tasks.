@@ -30,7 +30,7 @@ public class Program
             Console.WriteLine($"- {product.Name} ({product.Category})");
         }
 
-        var InStockProducts = products.Where(p => p.UnitPrice > 3.00m);
+        var InStockProducts = products.Where(p => p.UnitPrice > 3.00m && p.UnitsInStock>0);
         Console.WriteLine("Products in stock and greater than 3.00m");
         foreach (var product in InStockProducts)
         {
@@ -39,10 +39,10 @@ public class Program
 
 
         var FirstOutOfStockProduct = products.FirstOrDefault(p => p.UnitsInStock == 0);
-        Console.WriteLine($" First product out of stock {FirstOutOfStockProduct} ");
+        Console.WriteLine($" First product out of stock: {FirstOutOfStockProduct.Name} ");
 
         var FirstInStockProduct = products.FirstOrDefault(p => p.UnitPrice > 1000m);
-        Console.WriteLine($"first product greater than 1000m: {FirstInStockProduct}");
+        Console.WriteLine($"first product greater than 1000m: {FirstInStockProduct.Name}");
         int[] Arr = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
         var FirstGreaterThanNumber = Arr.FirstOrDefault(n => n > 5);
         Console.WriteLine($"First number greater than 5: {FirstGreaterThanNumber}");
